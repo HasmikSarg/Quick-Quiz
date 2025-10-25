@@ -1,5 +1,5 @@
 # Quick-Quiz
-html, css and javascript
 
+A simple quiz app built with HTML, CSS, and JavaScript.
 
-[Live Demo](https://sararasoulian.github.io/Quick-Quiz/)
+**[🎯 Try it out](https://sararasoulian.github.io/Quick-Quiz/)**
